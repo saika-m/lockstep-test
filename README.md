@@ -2,7 +2,7 @@
 
 > A Unity-based implementation for deterministic multiplayer simulations
 
-LockstepTest is a specialized Unity project that implements and tests a lockstep architecture for creating perfectly synchronized multiplayer experiences. This architecture is particularly optimized for x86-based processors and ensures consistent gameplay across all connected clients.
+Lockstep Test is a specialized Unity project that implements and tests a lockstep architecture for creating perfectly synchronized multiplayer experiences. This architecture is particularly optimized for x86-based processors and ensures consistent gameplay across all connected clients.
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ LockstepTest is a specialized Unity project that implements and tests a lockstep
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saika-m/locksteptest.git
+git clone https://github.com/saika-m/lockstep.git
 cd locksteptest
 ```
 
@@ -56,7 +56,7 @@ This methodical approach ensures that all clients experience the exact same game
 
 ## 👥 Contributing
 
-We welcome contributions to improve LockstepTest! Here's how to get involved:
+We welcome contributions to improve Lockstep Test! Here's how to get involved:
 
 1. Fork the repository
 2. Create your feature branch: `git checkout -b feature/amazing-feature`
