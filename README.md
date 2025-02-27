@@ -20,8 +20,8 @@ Lockstep Test is a specialized Unity project that implements and tests a lockste
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saika-m/lockstep.git
-cd locksteptest
+git clone https://github.com/saika-m/lockstep-test.git
+cd lockstep-test
 ```
 
 ### 2. Open in Unity
