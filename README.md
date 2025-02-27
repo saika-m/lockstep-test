@@ -1,4 +1,4 @@
-# LockstepTest
+# Lockstep Test
 
 > A Unity-based implementation for deterministic multiplayer simulations
 
